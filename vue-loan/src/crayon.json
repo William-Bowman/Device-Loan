@@ -1,0 +1,12 @@
+[
+    {"name": "001", "status": "stock" },
+    {"name": "002", "status": "loan", "loanText": "W10"},
+    {"name": "003", "status": "loan", "loanText": "W06"},
+    {"name": "004", "status": "stock" },
+    {"name": "005", "status": "dm", "dmText": "Missing" },
+    {"name": "006", "status": "stock" },
+    {"name": "007", "status": "loan", "loanText": "W10"},
+    {"name": "008", "status": "stock", "loanText": "W06"},
+    {"name": "009", "status": "stock" },
+    {"name": "010", "status": "stock"}
+]

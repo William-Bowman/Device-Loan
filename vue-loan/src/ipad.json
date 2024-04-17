@@ -1,0 +1,42 @@
+[
+    {
+        "series": "A",
+        "items": [
+            {"name": "A01", "status": "stock" },
+            {"name": "A02", "status": "loan", "loanText": "W10"},
+            {"name": "A03", "status": "loan", "loanText": "W06"},
+            {"name": "A04", "status": "stock" },
+            {"name": "A05", "status": "dm", "dmText": "Missing" }
+        ]
+    },
+    {
+        "series": "B",
+        "items": [
+            {"name": "B01", "status": "stock" },
+            {"name": "B02", "status": "loan", "loanText": "W10"},
+            {"name": "B03", "status": "loan", "loanText": "W06"},
+            {"name": "B04", "status": "stock" },
+            {"name": "B05", "status": "dm", "dmText": "Missing" }
+        ]
+    },
+    {
+        "series": "C",
+        "items": [
+            {"name": "C01", "status": "stock" },
+            {"name": "C02", "status": "loan", "loanText": "W10"},
+            {"name": "C03", "status": "loan", "loanText": "W06"},
+            {"name": "C04", "status": "stock" },
+            {"name": "C05", "status": "dm", "dmText": "Missing" }
+        ]
+    },
+    {
+        "series": "C",
+        "items": [
+            {"name": "C01", "status": "stock" },
+            {"name": "C02", "status": "loan", "loanText": "W10"},
+            {"name": "C03", "status": "loan", "loanText": "W06"},
+            {"name": "C04", "status": "stock" },
+            {"name": "C05", "status": "dm", "dmText": "Missing" }
+        ]
+    }
+]
